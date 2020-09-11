@@ -1,0 +1,52 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 0.63ms
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook collinearPoints.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/non-collinear-points.jpg (172.17.0.1) 1.06ms
+[NotebookApp | INFO] Kernel started: 3a76531e-d5a6-4b0e-aa99-79eeb91056d0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3a76531e-d5a6-4b0e-aa99-79eeb91056d0
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200911183348 (172.17.0.1) 22.73ms referer=http://localhost:8889/notebooks/collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
