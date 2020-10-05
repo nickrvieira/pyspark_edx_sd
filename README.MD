@@ -2,6 +2,13 @@
 
 This repo is a collection of assingments/projects and explanations throughout University of California San Diego's (UCSD)  "Big Data with Spark" course.
 
+
+---
+## Week Descriptions:
+
+1. Week 1: RDDs Map Reduce;
+2. Week 2: Processing Large Data w/ Map Reduce;
+
 ---
 
 ## Setup
